@@ -56,8 +56,8 @@ width: 35%;
 
 .para{
   margin-left: 100px;
-  /* margin-top:20px; */
-
+  margin-top:40px;
+line-height: 80%;
   float:left;
   text-align: center;
   font-size: large;
